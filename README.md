@@ -7,7 +7,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">🎯 Goals: Create useful stuff and have fun while doing it<br>📚 I'm currently learning data structures & algos <br>🎲 Fun fact: Having a golden retriever is my 90% of my personality</p>
+<p align="left">🎯 Goals: Create useful stuff AND fun stuff<br>📚 I'm currently going deeper into data structures & algos <br>🎲 Fun fact: Having a golden retriever is my 90% of my personality</p>
 
 ###
 <div align="left">
