@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-<p align="left">My name is Sean and i'm a front-end dev from Indiana. I career swapped from Marketing to Software and I've loved every minute of it. Thanks for checking out my GitHub!</p>
+<p align="left">My name is Sean and i'm a front-end dev from Indiana. I career swapped from Marketing to Software and I've loved every minute of it. Thanks for checking out my GitHub!(For a long while now, my commits have not been updating on my chart...and I haven't gotten around to fixing that. But you can follow my many of my updates on my LinkedIn!</p>
 
 ###
 <h2 align="left">About me</h2>
