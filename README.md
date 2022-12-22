@@ -4,19 +4,18 @@
 <p align="left">My name is Sean and i'm a front-end dev from Indiana. I career swapped from Marketing to Software and I've loved every minute of it. Thanks for checking out my GitHub!
   
   <b>DISCLAIMER:</b> (For a long while now, my commits have not been updating on my chart due to an aliased email on my local commits...and I haven't gotten around to fixing that. But you can follow my many of my updates on my LinkedIn!</p>
+  
+<div align="left">
+  <a href="https://www.linkedin.com/in/sean-derue/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 <h2 align="left">About me</h2>
 
 ###
 <p align="left">🎯 Goals: Create useful stuff AND fun stuff<br>📚 I'm currently going deeper into data structures & algos <br>🎲 Fun fact: Having a golden retriever is my 90% of my personality</p>
-
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/sean-derue/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 <h2 align="left">I code with</h2>
