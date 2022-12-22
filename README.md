@@ -5,7 +5,7 @@
   
   <b>DISCLAIMER:</b> (For a long while now, my commits have not been updating on my chart due to an aliased email on my local commits...and I haven't gotten around to fixing that. But you can follow my many of my updates on my LinkedIn!</p>
   
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/sean-derue/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
