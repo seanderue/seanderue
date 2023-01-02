@@ -18,7 +18,7 @@
 <p align="left">🎯 Goals: Create useful stuff AND fun stuff<br>📚 I'm currently going deeper into data structures & algos <br>🎲 Fun fact: Having a golden retriever is my 90% of my personality</p>
 
 ###
-<h2 align="left">I code with</h2>
+<h2 align="left">I code using</h2>
 
 ###
 <div align="center">
